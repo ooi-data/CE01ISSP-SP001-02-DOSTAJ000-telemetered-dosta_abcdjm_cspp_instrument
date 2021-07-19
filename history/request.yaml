@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE01ISSP-SP001-02-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument
 last_request: '2021-07-19T17:59:39.994499Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSP-SP001-02-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument/main/history/response.json
-status: pending
+status: success
