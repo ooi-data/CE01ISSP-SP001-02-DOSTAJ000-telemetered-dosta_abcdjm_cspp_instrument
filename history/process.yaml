@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSP-SP001-02-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument
 data_stream: CE01ISSP-SP001-02-DOSTAJ000-telemetered-dosta_abcdjm_cspp_instrument
 end_date: '2021-04-06T20:01:57.109Z'
-last_updated: '2021-07-19T20:18:34.865348Z'
+last_updated: '2021-07-19T20:20:17.685335'
 start_date: '2014-04-17T23:17:32.029Z'
-status: pending
+status: success
